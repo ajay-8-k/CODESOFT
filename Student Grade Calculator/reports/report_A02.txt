@@ -1,0 +1,36 @@
++-----------------------------------------------------------------------+
+|                      STUDENT REPORT CARD                              |
++-----------------------------------------------------------------------+
+  Student Name : AJAY K                                             
+  Roll Number  : A02                                                
+  Attendance   : 98.0 % (Eligible - Safe                            )
+-------------------------------------------------------------------------
+  SUBJECTS & SCORES:
+  - Mathematics        :  90.0 / 100   [PASS]   (Grade: A+)
+  - Science            :  90.0 / 100   [PASS]   (Grade: A+)
+  - English            :  90.0 / 100   [PASS]   (Grade: A+)
+  - Social Studies     :  90.0 / 100   [PASS]   (Grade: A+)
+  - Computer Science   :  90.0 / 100   [PASS]   (Grade: A+)
+-------------------------------------------------------------------------
+  SUMMARY STATISTICS:
+  * Total Marks        : 450.0 / 500.0
+  * Average Percentage : 90.00%
+  * Overall Grade      : A+
+  * Highest Scored Subject: Mathematics (90.0)
+  * Lowest Scored Subject : Mathematics (90.0)
+-------------------------------------------------------------------------
+  SUBJECT RANKINGS (Highest to Lowest):
+  1. Mathematics        : 90.0
+  2. Science            : 90.0
+  3. English            : 90.0
+  4. Social Studies     : 90.0
+  5. Computer Science   : 90.0
+-------------------------------------------------------------------------
+  ACADEMIC STANDINGS & ELIGIBILITY:
+  * Scholarship Status : Not Eligible (Requires Average > 90%)
+  * Next Grade Target  : Maximum Grade (A+) achieved! Outstanding work!
+-------------------------------------------------------------------------
+  FEEDBACK & MOTIVATION:
+  Feedback  : Outstanding! You have displayed exemplary understanding and command over all subjects. Keep leading the way!
+  Motivation: Success isn't just about what you accomplish, but what you inspire others to do. Keep shining!
++-----------------------------------------------------------------------+

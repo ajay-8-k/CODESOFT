@@ -1,0 +1,36 @@
++-----------------------------------------------------------------------+
+|                      STUDENT REPORT CARD                              |
++-----------------------------------------------------------------------+
+  Student Name : Sophia Vance                                       
+  Roll Number  : S101                                               
+  Attendance   : 89.5 % (Eligible - Safe                            )
+-------------------------------------------------------------------------
+  SUBJECTS & SCORES:
+  - Mathematics        :  92.5 / 100   [PASS]   (Grade: A+)
+  - Science            :  88.0 / 100   [PASS]   (Grade: A )
+  - English            :  95.0 / 100   [PASS]   (Grade: A+)
+  - Social Studies     :  84.0 / 100   [PASS]   (Grade: A )
+  - Computer Science   :  96.5 / 100   [PASS]   (Grade: A+)
+-------------------------------------------------------------------------
+  SUMMARY STATISTICS:
+  * Total Marks        : 456.0 / 500.0
+  * Average Percentage : 91.20%
+  * Overall Grade      : A+
+  * Highest Scored Subject: Computer Science (96.5)
+  * Lowest Scored Subject : Social Studies (84.0)
+-------------------------------------------------------------------------
+  SUBJECT RANKINGS (Highest to Lowest):
+  1. Computer Science   : 96.5
+  2. English            : 95.0
+  3. Mathematics        : 92.5
+  4. Science            : 88.0
+  5. Social Studies     : 84.0
+-------------------------------------------------------------------------
+  ACADEMIC STANDINGS & ELIGIBILITY:
+  * Scholarship Status : Eligible! (Average > 90%)
+  * Next Grade Target  : Maximum Grade (A+) achieved! Outstanding work!
+-------------------------------------------------------------------------
+  FEEDBACK & MOTIVATION:
+  Feedback  : Outstanding! You have displayed exemplary understanding and command over all subjects. Keep leading the way!
+  Motivation: Success isn't just about what you accomplish, but what you inspire others to do. Keep shining!
++-----------------------------------------------------------------------+
